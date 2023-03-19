@@ -11,8 +11,10 @@ class PollResultsPage extends StatelessWidget {
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         // todo: Add your UI by replacing this Container()
-        child: Container(),
+        child: Container(
+
       ),
+    ),
     );
   }
 }
